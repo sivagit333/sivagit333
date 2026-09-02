@@ -1,117 +1,93 @@
-# Hi, I'm Sivapriya 👋
+# Hi, I'm Sivapriya M
 
 ### Software Developer | Python Developer | AI/GenAI Enthusiast
 
-I'm an MCA graduate and aspiring Software / Python Developer with hands-on experience in Python, React, SQL, Supabase, AI/GenAI, and full-stack application development.
+I am an MCA graduate with a strong interest in software development, Python development, and AI/Generative AI.
 
----
+I enjoy building practical applications, learning new technologies, and solving real-world problems through software.
 
 ## About Me
 
-- MCA Graduate – CGPA 8.8
+- MCA Graduate with a CGPA of 8.8
 - Academic Top Ranker & Best Outgoing Student
-- Interested in Software Development and Python Development
-- Learning and building applications using AI, LLMs and RAG
-- Experience with React and Supabase
-- Comfortable with SQL and database development
-- Continuously improving my problem-solving and development skills
-- Open to Software / Python / AI opportunities in Chennai
-
----
+- Interested in Software Development, Python and AI/GenAI
+- Experience working with React, TypeScript, Supabase and Python
+- Currently strengthening my skills in Python, DSA, SQL, REST APIs, GenAI and RAG
+- Open to Software Developer, Python Developer and AI/GenAI opportunities
 
 ## Technical Skills
 
-### Programming Languages
+**Programming Languages**
 - Python
 - Java
 - JavaScript
 - SQL
 
-### Frontend
+**Web Development**
 - React
+- TypeScript
 - HTML
 - CSS
-- TypeScript
 
-### Backend & Database
+**Backend & Database**
 - Supabase
+- PostgreSQL
 - MySQL
-- PHP
 - REST APIs
 
-### AI / Machine Learning
+**AI & Data**
 - Generative AI
 - LLMs
 - RAG
 - Machine Learning
 - Data Analysis
+- Pandas
 
-### Tools
+**Tools**
 - Git
 - GitHub
 - VS Code
 - Streamlit
 
----
+## Featured Project
 
-## Featured Projects
+### AI Student Progress Tracker
 
-### 📚 Smart Digital Learning Platform
+An interactive student performance tracking and analysis dashboard built using Python, Streamlit, Pandas and Supabase.
 
-A full-stack learning management platform developed using React, Supabase and Supabase Edge Functions.
-
-**Features:**
-- Role-based access
+**Key features:**
 - Student management
-- Instructor management
-- Class scheduling
-- Quiz management
-- Database integration
-- Backend functions
+- Performance analysis
+- Subject-wise performance visualization
+- Learning recommendations
+- Supabase database integration
+- Row Level Security
+- Streamlit Cloud deployment
 
-**Tech Stack:** React | TypeScript | Supabase | SQL
+[View Project](https://github.com/sivagit333/ai-student-progress-tracker) | [Live Demo](https://ai-student-progress-tracker-lvyw6gsakhbsnbfdb4k2z8.streamlit.app/)
 
----
+## Professional Experience
 
-### Online Grocery Shop
+I have worked on software projects involving React, TypeScript, Supabase and full-stack application development.
 
-A full-stack e-commerce application developed as an academic project.
+Some professional project source code cannot be publicly shared due to company confidentiality requirements.
 
-**Tech Stack:** PHP | MySQL | HTML | CSS
-
----
-
-### Smart Dustbin
-
-An IoT-based smart waste management project developed using Arduino and sensors.
-
-**Tech Stack:** Arduino | Sensors | Embedded Systems
-
----
-
-## Currently Improving
+## Currently Learning
 
 - Advanced Python
 - Data Structures & Algorithms
-- SQL
+- Advanced SQL
 - REST API Development
 - Generative AI
-- RAG Applications
+- LLM Applications
+- RAG
 - Full-Stack Development
-
----
 
 ## Career Goal
 
-I am looking for opportunities where I can apply my programming and software development skills while continuing to learn and build real-world applications.
-
----
+I am looking for opportunities where I can contribute to real-world software products while continuing to grow as a Software, Python or AI Developer.
 
 ## Connect With Me
 
-- LinkedIn: [Sivapriya M](https://www.linkedin.com/in/sivapriya-murugesan/)
-- GitHub: [sivagit333](https://github.com/sivagit333)
-
----
-
-Thanks for visiting my profile!
+- LinkedIn: https://www.linkedin.com/in/sivapriya-murugesan/
+- GitHub: https://github.com/sivagit333
