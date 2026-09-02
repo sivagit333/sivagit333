@@ -6,20 +6,20 @@ I'm an MCA graduate and aspiring Software / Python Developer with hands-on exper
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-- 🎓 MCA Graduate – CGPA 8.8
-- 🏆 Academic Top Ranker & Best Outgoing Student
-- 💻 Interested in Software Development and Python Development
-- 🤖 Learning and building applications using AI, LLMs and RAG
-- 🌐 Experience with React and Supabase
-- 🗄️ Comfortable with SQL and database development
-- 📚 Continuously improving my problem-solving and development skills
-- 📍 Open to Software / Python / AI opportunities in Chennai
+- MCA Graduate – CGPA 8.8
+- Academic Top Ranker & Best Outgoing Student
+- Interested in Software Development and Python Development
+- Learning and building applications using AI, LLMs and RAG
+- Experience with React and Supabase
+- Comfortable with SQL and database development
+- Continuously improving my problem-solving and development skills
+- Open to Software / Python / AI opportunities in Chennai
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Programming Languages
 - Python
@@ -54,7 +54,7 @@ I'm an MCA graduate and aspiring Software / Python Developer with hands-on exper
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 📚 Smart Digital Learning Platform
 
@@ -73,7 +73,7 @@ A full-stack learning management platform developed using React, Supabase and Su
 
 ---
 
-### 🛒 Online Grocery Shop
+### Online Grocery Shop
 
 A full-stack e-commerce application developed as an academic project.
 
@@ -81,7 +81,7 @@ A full-stack e-commerce application developed as an academic project.
 
 ---
 
-### 🗑️ Smart Dustbin
+### Smart Dustbin
 
 An IoT-based smart waste management project developed using Arduino and sensors.
 
@@ -89,7 +89,7 @@ An IoT-based smart waste management project developed using Arduino and sensors.
 
 ---
 
-## 📌 Currently Improving
+## Currently Improving
 
 - Advanced Python
 - Data Structures & Algorithms
@@ -101,17 +101,17 @@ An IoT-based smart waste management project developed using Arduino and sensors.
 
 ---
 
-## 🎯 Career Goal
+## Career Goal
 
 I am looking for opportunities where I can apply my programming and software development skills while continuing to learn and build real-world applications.
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
-- 💼 LinkedIn: [Sivapriya M](https://www.linkedin.com/in/sivapriya-murugesan/)
-- 🐙 GitHub: [sivagit333](https://github.com/sivagit333)
+- LinkedIn: [Sivapriya M](https://www.linkedin.com/in/sivapriya-murugesan/)
+- GitHub: [sivagit333](https://github.com/sivagit333)
 
 ---
 
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile!
